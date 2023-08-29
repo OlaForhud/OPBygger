@@ -5,7 +5,7 @@
  * Author : pmherdle
  */ 
 
-#define F_CPU 419200UL
+#define F_CPU 419200UL //Mangler én null i forhold til den virkelige frekvensen
 #include <avr/io.h>
 #include <util/delay.h>
 
